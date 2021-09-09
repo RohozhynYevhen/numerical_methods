@@ -1,0 +1,3 @@
+C:\Users\evere\source\repos\lab7\lab7\Debug\lab7.vcxproj.AssemblyReference.cache
+C:\Users\evere\source\repos\lab7\lab7\Debug\lab7.MyForm.resources
+C:\Users\evere\source\repos\lab7\lab7\Debug\lab7.vcxproj.GenerateResource.cache

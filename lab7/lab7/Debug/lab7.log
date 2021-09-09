@@ -1,0 +1,19 @@
+﻿  MyForm.cpp
+C:\Users\evere\source\repos\lab7\lab7\MyForm.h(735,45): warning C4838: Преобразование из "double" в "int" требует сужающего преобразования.
+C:\Users\evere\source\repos\lab7\lab7\MyForm.h(735,45): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\evere\source\repos\lab7\lab7\MyForm.h(735,91): warning C4838: Преобразование из "double" в "int" требует сужающего преобразования.
+C:\Users\evere\source\repos\lab7\lab7\MyForm.h(735,91): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\evere\source\repos\lab7\lab7\MyForm.h(735,137): warning C4838: Преобразование из "double" в "int" требует сужающего преобразования.
+C:\Users\evere\source\repos\lab7\lab7\MyForm.h(735,137): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\evere\source\repos\lab7\lab7\MyForm.h(735,183): warning C4838: Преобразование из "double" в "int" требует сужающего преобразования.
+C:\Users\evere\source\repos\lab7\lab7\MyForm.h(735,183): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\evere\source\repos\lab7\lab7\MyForm.h(736,45): warning C4838: Преобразование из "double" в "int" требует сужающего преобразования.
+C:\Users\evere\source\repos\lab7\lab7\MyForm.h(736,45): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\evere\source\repos\lab7\lab7\MyForm.h(736,91): warning C4838: Преобразование из "double" в "int" требует сужающего преобразования.
+C:\Users\evere\source\repos\lab7\lab7\MyForm.h(736,91): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\evere\source\repos\lab7\lab7\MyForm.h(736,137): warning C4838: Преобразование из "double" в "int" требует сужающего преобразования.
+C:\Users\evere\source\repos\lab7\lab7\MyForm.h(736,137): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\evere\source\repos\lab7\lab7\MyForm.h(736,183): warning C4838: Преобразование из "double" в "int" требует сужающего преобразования.
+C:\Users\evere\source\repos\lab7\lab7\MyForm.h(736,183): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  lab7.vcxproj -> C:\Users\evere\source\repos\lab7\Debug\lab7.exe
